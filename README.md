@@ -3,4 +3,5 @@ Materials:
 4 ldr,
 4 resistors,
 1 breadboard,
-1 arduino uno
+1 arduino uno,
+2 servo motors
